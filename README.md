@@ -1,16 +1,19 @@
 # demo-proyect.py
 esta es la descripcion corta del contenido del repositorio para proyectos de python
 
-En esta demostración haré lo siguiente: 
+En esta demostración haré lo siguiente:
 
 * Crear un repositorio
    -- sub item 1
    -- sub item 2
    -- sub item 3
 * Editar el `readme.md`
-* Asustar a mis estudiantes 
+* Asustar a mis estudiantes
 
 ## Este es un subtitulo
+
+esta es una modificación desde el master
+
 
 ## Este es otro subtitulo
 
